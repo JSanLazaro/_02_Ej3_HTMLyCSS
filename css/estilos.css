@@ -1,0 +1,122 @@
+body{
+    background-image: url("../images/photo2.avif");
+}
+
+
+.a-left{
+color: white;
+}
+h1,h2, h3, h4 {
+    text-align: center;
+}
+.contenido {
+    margin: 0px 5em;
+}
+.panel{
+    background-color: green;
+    margin: 0px 20%;
+}
+.tbl-colores {
+    width: 100%;
+    height: 300px;
+    border-spacing: 0px;
+}
+
+span{
+    margin-right: 20px;
+    font-size: 38px;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+.teal{
+    background-color: teal;
+}
+.blue{
+    background-color: blue;
+}
+.navy{
+    background-color: navy;
+    color: white;
+}
+.lime{
+    background-color: lime;
+}
+.white{
+    background-color: white;
+}
+.purple{
+    background-color: purple;
+}
+.yellow{
+    background-color: yellow;
+}
+.olive{
+    background-color: olive;
+}
+.red{
+    background-color: red;
+}
+.gray{
+    background-color: gray;
+}
+.fuchsia{
+    background-color: fuchsia;
+}
+.green{
+    background-color: green;
+}
+.letras{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px 40px;
+}
+.f-black{
+    color:black;
+}
+.f-teal{
+    color: teal;
+}
+.f-blue{
+    color: blue;
+}
+.f-navy{
+    color: navy;
+}
+.f-lime{
+    color: lime;
+}
+.f-white{
+    color: white;
+}
+.f-purple{
+    color: purple;
+}
+.f-yellow{
+    color: yellow;
+}
+.f-olive{
+    color: olive;
+}
+.f-red{
+    color: red;
+}
+.f-marron{
+    color: maroon;
+}
+.f-gray{
+    color: gray;
+}
+.f-fuchsia{
+    color: fuchsia;
+}
+.f-green{
+    color: green;
+}
+.f-aqua{
+    color: aqua;
+}
+.f-silver{
+    color: silver;
+}

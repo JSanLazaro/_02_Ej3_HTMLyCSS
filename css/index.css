@@ -1,0 +1,14 @@
+h1,h2, h3, h4 {
+    text-align: center;
+}
+
+.relleno {
+    background-color: gray;
+}
+.img{
+    height: 100px;
+    float: left;
+}
+.a-right{
+    float: right;
+}
